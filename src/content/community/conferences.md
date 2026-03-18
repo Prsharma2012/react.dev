@@ -15,10 +15,14 @@ March 26 - 27, 2026. In-person in Paris, France (hybrid event)
 
 [Website](https://react.paris/) - [Twitter](https://x.com/BeJS_)
 
+### Test Driven Development with React 2026 {/*Online Event-2026*/}
+April 23rd,  2026. Online
+
+[Website](https://www.eventbrite.com/e/test-driven-development-with-react-masterclass-tickets-1984443181977?aff=oddtdtcreator) 
+
 ### CityJS London 2026 {/*cityjs-london-2026*/}
 April 14-17,  2026. In-person in London
 
-[Website](https://india.cityjsconf.org/) - [Twitter](https://x.com/cityjsconf) - [Bluesky](https://bsky.app/profile/cityjsconf.bsky.social)
 
 ### ZurichJS Conf 2026 {/*zurichjs-conf-2026*/}
 September 10-11,  2026. In-person in Zurich, Switzerland
